@@ -86,7 +86,7 @@
 
         mysqli_query($link, $sql);
     ?>
-
+</body>
 <section>
     <h2>Muito Obrigado por seu cadastro.</h2><br>
     <a href="index.php">Voltar</a>
